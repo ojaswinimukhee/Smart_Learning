@@ -1,11 +1,11 @@
->>>> Introduction : 
+# Introduction : 
 
     Personalized Learning app for students to provide them learning paths, recommend resources , giving course suggestions based on their interests and making a study plan to help them and to track their progress to implement it.
 
     Connected to the MongoDB database to store the information about the user after logged in and to store the search history of the user to show him when he logged in again with the same credentials.
 
-
->>>> Key Components:
+ 
+ # Key Components:
 
     main.py: 
         Main class 
@@ -18,7 +18,8 @@
     recommended_material.txt: 
         File to show the output at the moment
 
->>>> Running the Code
+
+# Running the Code
 
     This code uses GPT-3.5.
 
@@ -35,12 +36,12 @@
         Run python main.py
 
 
->>>> Execution: 
+# Execution: 
 
     Running the Script: Execute python main.py
 
 
->>>> About Project : 
+# About Project : 
 
     The project was made using CrewAI with following Agents, Tasks, Tools, Inputs, Outputs...
 
